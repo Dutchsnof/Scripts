@@ -2,7 +2,7 @@
 
 
 #Locatie OU van Servers
-$OU = "ou=Virtual desktops,ou=workstations,ou=ap,DC=ambitiouspeople,DC=nl"
+$OU =
 # Locatie van bestand online avds. 
 $fileonlineavds = "c:\bsu\Find_FSLogix_Profile_Script\onlineavds.txt"
 # Locatie van bestand AVD Namen.
